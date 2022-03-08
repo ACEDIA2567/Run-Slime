@@ -10,4 +10,4 @@
 
 감사합니다.
 
-<img src="이재형/korea.png">
+<img src="이재형/korea.png" width="300" height="300">
