@@ -10,4 +10,4 @@
 
 감사합니다.
 
-src = "이재형/korea"
+<img src="이재형/korea">
