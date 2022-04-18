@@ -16,7 +16,7 @@
  게임 장르: 플랫포머, 퍼즐
 
  플랫포머: 점프와 이동기를 사용하는 게임을 말한다. 플랫폼이란 발판을 의미하는데 구체적으로 플레이어가 
-          캐릭터를 조종하면서 발판 위를 뛰어다니는 점프 컨트롤이 중요한 게임이다.
+       캐릭터를 조종하면서 발판 위를 뛰어다니는 점프 컨트롤이 중요한 게임이다.
 
  퍼즐: 어떠한 규칙 내에서 정해진 행위를 통해 주어진 조건을 완료해 클리어하는 단순한 게임을 지칭한다. 
        게임의 특성상 변수가 전혀 없거나 극히 드물다는 특성이 있다.
@@ -34,20 +34,22 @@
   5. 하나믜 맵으로 이루어져 있는 것이 아닌 여러 개의 맵(스테이지)가 있어 여러 맵을 플레이 할 수 있다.
 
 #### 에셋 소개(출처):
-  1. 타일맵에 사용 할 에셋 (FREE Pixel Art kit)
-     사이트: https://assetstore.unity.com/
+  1. 타일맵에 사용 할 에셋 (FREE Pixel Art kit)      
+       사이트: https://assetstore.unity.com/
      
-  2. 아이템으로 사용 할 에셋 (Jelly Icons)
-     사이트: https://assetstore.unity.com/
+  2. 아이템으로 사용 할 에셋 (Jelly Icons)    
+       사이트: https://assetstore.unity.com/
      
-  3. 플레이어로 사용 할 에셋 (2D Pixel Slime Set)
-     사이트: https://www.gamedevmarket.net/category/2d/
+  3. 플레이어로 사용 할 에셋 (2D Pixel Slime Set)    
+       사이트: https://www.gamedevmarket.net/category/2d/
      
-  4. 플레이어 대쉬 사운드
-     사이트: https://www.sellbuymusic.com/
+  4. 플레이어 대쉬 사운드    
+       사이트: https://www.sellbuymusic.com/
      
-  5. 인게임 배경 음악 사운드
-     사이트: https://pixabay.com/ko/sound-effects/
+  5. 인게임 배경 음악 사운드    
+       사이트: https://pixabay.com/ko/sound-effects/
+
+<hr>
 
 ### 게임 개발 환경
 
@@ -61,6 +63,8 @@
 
  사용할 언어: 유니티가 기본적으로 C#을 제공하기 때문에 C#을 이용하여 사용함
 
+<hr>
+
 ### 주차별 실행 현황
 
 #### 1주차
@@ -71,6 +75,8 @@ PPT와 깃허브를 이용하여 게임 개발과 관련된 정보를 정리하�
 
 #### 2주차
 ##### 1)
+
+<hr>
 
 ### 주차별 계획
 1주차: 게임프로젝트 계획서 작성
