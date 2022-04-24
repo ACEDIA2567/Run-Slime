@@ -155,15 +155,34 @@ PPT와 깃허브를 이용하여 게임 개발과 관련된 정보를 정리하�
 ##### 1) 갈고리 이동    
 플레이어가 좌클릭 시 갈고리에 맞는 Tag에 충돌시 갈고리가 걸려 플레이어가     
 그 방향을 중심으로 U자로 이동 구현    
+![갈고리 구현-min](https://user-images.githubusercontent.com/101154683/164983824-c52d0a21-ebfa-43c7-b2c6-1a91f2f0e9df.gif)    
 
-##### 2) 아이템 상자 ( 갈고리 )   
+##### 2) 아이템 상자 ( 갈고리 )    
 플레이어가 해당 아이템 획득 시 갈고리를 1회 사용 가능하도록 구현
 <미구현 사유: 살펴보기>
 
 <hr>
 
-### 게임 관련 아이템 및 함정
+### 게임 관련 아이템 및 함정 및 발판
 
+#### 1) 아이템
+● 점프 아이템: 점프의 횟수를 1회 더 늘려준다. (바닥에 착지하면 횟수는 사라진다.) 
+![점프 1회](https://user-images.githubusercontent.com/101154683/164984545-5734f6d6-b618-4079-b67c-c8ea3f1eaecb.png)
+    
+● 순간이동 아이템: 자신을 기준으로 8방향에서 원하는 위치로 순간이동이 가능하다. 
+![순간이동](https://user-images.githubusercontent.com/101154683/164984542-ca872bb5-26c3-4f5d-80ec-8e71a1baa6ea.png)
+    
+● 열쇠: 문으로 인해 가지 못하는 구간을 열수 있다. 
+![열쇠](https://user-images.githubusercontent.com/101154683/164984543-7b34637d-54b3-4d45-8dae-6faef93d5d7e.png)
+    
+#### 2) 함정 및 발판
+● 가시: 플레이어가 충돌한다면 자신이 가고 있던 방향의 정반대로 넉백하며    
+    바닥에 착지를 할 동안 아이템 및 이동을 할 수 없다. 
+    ![가시](https://user-images.githubusercontent.com/101154683/164985020-e31e0cac-445a-438f-99f0-1a9efa3a1359.png)
+    
+● 발판: x축과 y축으로 이동하는 발판으로 가지 못하는 구간을 움직이는 발판으로 이동 할 수 있다. 
+![발판1](https://user-images.githubusercontent.com/101154683/164985022-e1022c66-3e4d-4fbc-8b3a-d5df215e0d4d.png)  ![발판2](https://user-images.githubusercontent.com/101154683/164985023-b062222d-0f43-403b-a28e-68212d311f8f.png)
+    
 <hr>
 
 ### 미구현, 추가 구현 이유 설명
