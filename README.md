@@ -23,9 +23,9 @@
 
 #### 플레이 방법:
 
-  1. 이동기인 화살표 4개를 이용하여 플레이 한다.
+  1. 이동기 점프(W), 좌우 이동키(A, D)를 이용하여 플레이어 자신을 이동시킨다.
 
-  2. 아이템을 먹고 사용 가능한 키로 W, A, S, D를 이용하여 아이템을 획득한 후 사용한다.
+  2. 아이템을 먹고 마우스 좌클릭과, 우클릭를 이용한다.
 
   3. Space키는 특수키로 이동하는 방향으로 짧게 대쉬를 한다.
 
@@ -34,19 +34,19 @@
   5. 하나믜 맵으로 이루어져 있는 것이 아닌 여러 개의 맵(스테이지)가 있어 여러 맵을 플레이 할 수 있다.
 
 #### 에셋 소개(출처):
-  1. 타일맵에 사용 할 에셋 (FREE Pixel Art kit)      
+  ● 타일맵에 사용 할 에셋 (FREE Pixel Art kit)      
        사이트: https://assetstore.unity.com/
      
-  2. 아이템으로 사용 할 에셋 (Jelly Icons)    
+  ● 아이템으로 사용 할 에셋 (Jelly Icons)    
        사이트: https://assetstore.unity.com/
      
-  3. 플레이어로 사용 할 에셋 (2D Pixel Slime Set)    
+  ● 플레이어로 사용 할 에셋 (2D Pixel Slime Set)    
        사이트: https://www.gamedevmarket.net/category/2d/
      
-  4. 플레이어 대쉬 사운드    
+  ● 플레이어 대쉬 사운드    
        사이트: https://www.sellbuymusic.com/
      
-  5. 인게임 배경 음악 사운드    
+  ● 인게임 배경 음악 사운드    
        사이트: https://pixabay.com/ko/sound-effects/
 
 <hr>
