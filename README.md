@@ -190,7 +190,8 @@ PPT와 깃허브를 이용하여 게임 개발과 관련된 정보를 정리하�
 
 ##### 3) 인게임 씬에서 마우스 커서 변경
 인게임 씬에서 원래의 마우스 커서가 아닌 다른 커서를 사용하였음    
-![인게임 마우스커서](https://user-images.githubusercontent.com/101154683/174471999-cf281ad4-d8c9-401a-8e5d-0b4e61b4e813.png)
+![인게임 마우스커서](https://user-images.githubusercontent.com/101154683/174473343-c775dc2b-b7d6-49c9-9ed2-94377f82a373.png)
+    
 
 #### 10주차
 
