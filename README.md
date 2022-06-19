@@ -312,6 +312,9 @@ PPT와 깃허브를 이용하여 게임 개발과 관련된 정보를 정리하�
 ● 발판: x축과 y축으로 이동하는 발판으로 가지 못하는 구간을 움직이는 발판으로 이동 할 수 있다.     
 ![발판1](https://user-images.githubusercontent.com/101154683/164985022-e1022c66-3e4d-4fbc-8b3a-d5df215e0d4d.png)  ![발판2](https://user-images.githubusercontent.com/101154683/164985023-b062222d-0f43-403b-a28e-68212d311f8f.png)
     
+● 깃발: 슬라임의 둥지에 있으며 자신(슬라임)이 해당 아이템에 충돌시 엔딩 씬으로 넘어가게 된다.    
+![엔딩지점](https://user-images.githubusercontent.com/101154683/174474479-d39468b8-4693-407c-bfbc-5bc5e1a5ca3e.png)
+
 <hr>
 
 ### 미 구현과 추가 구현 설명
