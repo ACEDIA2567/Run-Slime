@@ -53,7 +53,7 @@
   ● 플레이어 대쉬 사운드    
        사이트: https://www.sellbuymusic.com/
      
-  ● 인게임 배경 음악 사운드    
+  ● 배경 음악, 아이템 효과 사운드    
        사이트: https://pixabay.com/ko/sound-effects/
 
 <hr>
