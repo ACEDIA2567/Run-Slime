@@ -74,7 +74,7 @@
 
 ### 주차별 계획 
 #### (주차별 실행 현황에 자세히 있으므로 간략하게 생략하였음)
-![RunSlime](https://github.com/ACEDIA2567/Run-Slime/assets/101154683/515c72dc-0c53-48c2-ade0-2d3c40de9abd)
+![RunSlime](https://github.com/ACEDIA2567/Run-Slime/assets/101154683/aee8f0d0-4aed-48f8-bb33-49a2a9315c19)
 
 21.03.02: 게임프로젝트 계획서 작성
 
