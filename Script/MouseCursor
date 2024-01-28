@@ -10,6 +10,7 @@ public class MouseCursor : MonoBehaviour
 
     private void Start()
     {
+        // 마우스 커서 변경
         Cursor.SetCursor(cursorImg, Vector2.zero, CursorMode.ForceSoftware);
     }
 }
